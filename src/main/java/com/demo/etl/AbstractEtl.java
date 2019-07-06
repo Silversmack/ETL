@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2019.
- */
-
 package com.demo.etl;
 
 import com.demo.etl.models.EtlDataModel;
@@ -21,9 +17,6 @@ import java.util.stream.Collectors;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.io.ClassPathResource;
 
-/**
- * @author evivehealth on 2019-07-05.
- */
 @Slf4j
 public abstract class AbstractEtl {
 

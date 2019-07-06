@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2019.
- */
-
 package com.demo.etl;
 
 import com.demo.etl.services.BasicEtl;
